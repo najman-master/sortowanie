@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1789460515 source:c:\users\201\desktop\sortowanie\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
